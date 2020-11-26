@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\bin\Debug\netcoreapp3.1\8. UsingSystem.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\bin\Debug\netcoreapp3.1\8. UsingSystem.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\bin\Debug\netcoreapp3.1\8. UsingSystem.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\bin\Debug\netcoreapp3.1\8. UsingSystem.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\bin\Debug\netcoreapp3.1\8. UsingSystem.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\bin\Debug\netcoreapp3.1\8. UsingSystem.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\obj\Debug\netcoreapp3.1\8. UsingSystem.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\obj\Debug\netcoreapp3.1\8. UsingSystem.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\obj\Debug\netcoreapp3.1\8. UsingSystem.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\obj\Debug\netcoreapp3.1\8. UsingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\obj\Debug\netcoreapp3.1\8. UsingSystem.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\obj\Debug\netcoreapp3.1\8. UsingSystem.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\8. UsingSystem\obj\Debug\netcoreapp3.1\8. UsingSystem.genruntimeconfig.cache

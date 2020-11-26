@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\obj\Debug\netcoreapp3.1\4. PrioridadOperadores.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\obj\Debug\netcoreapp3.1\4. PrioridadOperadores.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\obj\Debug\netcoreapp3.1\4. PrioridadOperadores.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\obj\Debug\netcoreapp3.1\4. PrioridadOperadores.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\bin\Debug\netcoreapp3.1\4. PrioridadOperadores.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\bin\Debug\netcoreapp3.1\4. PrioridadOperadores.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\bin\Debug\netcoreapp3.1\4. PrioridadOperadores.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\bin\Debug\netcoreapp3.1\4. PrioridadOperadores.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\bin\Debug\netcoreapp3.1\4. PrioridadOperadores.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\bin\Debug\netcoreapp3.1\4. PrioridadOperadores.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\obj\Debug\netcoreapp3.1\4. PrioridadOperadores.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\obj\Debug\netcoreapp3.1\4. PrioridadOperadores.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\4. PrioridadOperadores\obj\Debug\netcoreapp3.1\4. PrioridadOperadores.genruntimeconfig.cache

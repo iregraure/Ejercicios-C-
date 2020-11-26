@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\bin\Debug\netcoreapp3.1\7. SumaPorTeclado.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\bin\Debug\netcoreapp3.1\7. SumaPorTeclado.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\bin\Debug\netcoreapp3.1\7. SumaPorTeclado.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\bin\Debug\netcoreapp3.1\7. SumaPorTeclado.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\bin\Debug\netcoreapp3.1\7. SumaPorTeclado.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\bin\Debug\netcoreapp3.1\7. SumaPorTeclado.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\obj\Debug\netcoreapp3.1\7. SumaPorTeclado.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\obj\Debug\netcoreapp3.1\7. SumaPorTeclado.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\obj\Debug\netcoreapp3.1\7. SumaPorTeclado.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\obj\Debug\netcoreapp3.1\7. SumaPorTeclado.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\obj\Debug\netcoreapp3.1\7. SumaPorTeclado.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\obj\Debug\netcoreapp3.1\7. SumaPorTeclado.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\7. SumaPorTeclado\obj\Debug\netcoreapp3.1\7. SumaPorTeclado.genruntimeconfig.cache

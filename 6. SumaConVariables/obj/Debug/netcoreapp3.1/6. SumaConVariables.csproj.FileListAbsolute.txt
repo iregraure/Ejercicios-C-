@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\bin\Debug\netcoreapp3.1\6. SumaConVariables.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\bin\Debug\netcoreapp3.1\6. SumaConVariables.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\bin\Debug\netcoreapp3.1\6. SumaConVariables.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\bin\Debug\netcoreapp3.1\6. SumaConVariables.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\bin\Debug\netcoreapp3.1\6. SumaConVariables.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\bin\Debug\netcoreapp3.1\6. SumaConVariables.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\obj\Debug\netcoreapp3.1\6. SumaConVariables.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\obj\Debug\netcoreapp3.1\6. SumaConVariables.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\obj\Debug\netcoreapp3.1\6. SumaConVariables.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\obj\Debug\netcoreapp3.1\6. SumaConVariables.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\obj\Debug\netcoreapp3.1\6. SumaConVariables.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\obj\Debug\netcoreapp3.1\6. SumaConVariables.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\6. SumaConVariables\obj\Debug\netcoreapp3.1\6. SumaConVariables.genruntimeconfig.cache

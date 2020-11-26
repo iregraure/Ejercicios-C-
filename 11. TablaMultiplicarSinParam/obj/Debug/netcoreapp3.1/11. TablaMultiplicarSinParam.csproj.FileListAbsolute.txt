@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\bin\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\bin\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\bin\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\bin\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\bin\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\bin\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\obj\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\obj\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\obj\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\obj\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\obj\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\obj\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\11. TablaMultiplicarSinParam\obj\Debug\netcoreapp3.1\11. TablaMultiplicarSinParam.genruntimeconfig.cache

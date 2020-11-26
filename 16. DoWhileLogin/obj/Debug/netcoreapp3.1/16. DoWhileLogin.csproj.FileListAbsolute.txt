@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\bin\Debug\netcoreapp3.1\16. DoWhileLogin.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\bin\Debug\netcoreapp3.1\16. DoWhileLogin.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\bin\Debug\netcoreapp3.1\16. DoWhileLogin.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\bin\Debug\netcoreapp3.1\16. DoWhileLogin.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\bin\Debug\netcoreapp3.1\16. DoWhileLogin.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\bin\Debug\netcoreapp3.1\16. DoWhileLogin.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\obj\Debug\netcoreapp3.1\16. DoWhileLogin.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\obj\Debug\netcoreapp3.1\16. DoWhileLogin.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\obj\Debug\netcoreapp3.1\16. DoWhileLogin.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\obj\Debug\netcoreapp3.1\16. DoWhileLogin.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\obj\Debug\netcoreapp3.1\16. DoWhileLogin.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\obj\Debug\netcoreapp3.1\16. DoWhileLogin.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\16. DoWhileLogin\obj\Debug\netcoreapp3.1\16. DoWhileLogin.genruntimeconfig.cache

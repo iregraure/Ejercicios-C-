@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\bin\Debug\netcoreapp3.1\20. CuentaLetrasForeach.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\bin\Debug\netcoreapp3.1\20. CuentaLetrasForeach.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\bin\Debug\netcoreapp3.1\20. CuentaLetrasForeach.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\bin\Debug\netcoreapp3.1\20. CuentaLetrasForeach.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\bin\Debug\netcoreapp3.1\20. CuentaLetrasForeach.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\bin\Debug\netcoreapp3.1\20. CuentaLetrasForeach.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\obj\Debug\netcoreapp3.1\20. CuentaLetrasForeach.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\obj\Debug\netcoreapp3.1\20. CuentaLetrasForeach.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\obj\Debug\netcoreapp3.1\20. CuentaLetrasForeach.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\obj\Debug\netcoreapp3.1\20. CuentaLetrasForeach.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\obj\Debug\netcoreapp3.1\20. CuentaLetrasForeach.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\obj\Debug\netcoreapp3.1\20. CuentaLetrasForeach.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\20. CuentaLetrasForeach\obj\Debug\netcoreapp3.1\20. CuentaLetrasForeach.genruntimeconfig.cache

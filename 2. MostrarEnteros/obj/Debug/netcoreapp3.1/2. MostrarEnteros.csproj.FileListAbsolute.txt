@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\obj\Debug\netcoreapp3.1\2. MostrarEnteros.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\obj\Debug\netcoreapp3.1\2. MostrarEnteros.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\obj\Debug\netcoreapp3.1\2. MostrarEnteros.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\obj\Debug\netcoreapp3.1\2. MostrarEnteros.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\bin\Debug\netcoreapp3.1\2. MostrarEnteros.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\bin\Debug\netcoreapp3.1\2. MostrarEnteros.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\bin\Debug\netcoreapp3.1\2. MostrarEnteros.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\bin\Debug\netcoreapp3.1\2. MostrarEnteros.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\bin\Debug\netcoreapp3.1\2. MostrarEnteros.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\bin\Debug\netcoreapp3.1\2. MostrarEnteros.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\obj\Debug\netcoreapp3.1\2. MostrarEnteros.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\obj\Debug\netcoreapp3.1\2. MostrarEnteros.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\2. MostrarEnteros\obj\Debug\netcoreapp3.1\2. MostrarEnteros.genruntimeconfig.cache

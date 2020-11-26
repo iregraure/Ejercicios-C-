@@ -1,0 +1,4 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\5. Desbordamiento\obj\Debug\netcoreapp3.1\5. Desbordamiento.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\5. Desbordamiento\obj\Debug\netcoreapp3.1\5. Desbordamiento.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\5. Desbordamiento\obj\Debug\netcoreapp3.1\5. Desbordamiento.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\5. Desbordamiento\obj\Debug\netcoreapp3.1\5. Desbordamiento.csproj.CoreCompileInputs.cache

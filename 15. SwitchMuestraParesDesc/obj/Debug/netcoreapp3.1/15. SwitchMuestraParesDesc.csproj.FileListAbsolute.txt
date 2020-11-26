@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\obj\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\obj\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\obj\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\obj\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\bin\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\bin\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\bin\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\bin\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\bin\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\bin\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\obj\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\obj\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\15. SwitchMuestraParesDesc\obj\Debug\netcoreapp3.1\15. SwitchMuestraParesDesc.genruntimeconfig.cache

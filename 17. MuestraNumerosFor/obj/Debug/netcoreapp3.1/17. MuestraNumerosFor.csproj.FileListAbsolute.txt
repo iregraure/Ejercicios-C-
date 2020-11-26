@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\obj\Debug\netcoreapp3.1\17. MuestraNumerosFor.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\obj\Debug\netcoreapp3.1\17. MuestraNumerosFor.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\obj\Debug\netcoreapp3.1\17. MuestraNumerosFor.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\obj\Debug\netcoreapp3.1\17. MuestraNumerosFor.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\bin\Debug\netcoreapp3.1\17. MuestraNumerosFor.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\bin\Debug\netcoreapp3.1\17. MuestraNumerosFor.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\bin\Debug\netcoreapp3.1\17. MuestraNumerosFor.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\bin\Debug\netcoreapp3.1\17. MuestraNumerosFor.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\bin\Debug\netcoreapp3.1\17. MuestraNumerosFor.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\bin\Debug\netcoreapp3.1\17. MuestraNumerosFor.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\obj\Debug\netcoreapp3.1\17. MuestraNumerosFor.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\obj\Debug\netcoreapp3.1\17. MuestraNumerosFor.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\17. MuestraNumerosFor\obj\Debug\netcoreapp3.1\17. MuestraNumerosFor.genruntimeconfig.cache

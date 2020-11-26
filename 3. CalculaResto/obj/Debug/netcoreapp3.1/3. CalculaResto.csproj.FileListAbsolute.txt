@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\obj\Debug\netcoreapp3.1\3. CalculaResto.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\obj\Debug\netcoreapp3.1\3. CalculaResto.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\obj\Debug\netcoreapp3.1\3. CalculaResto.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\obj\Debug\netcoreapp3.1\3. CalculaResto.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\bin\Debug\netcoreapp3.1\3. CalculaResto.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\bin\Debug\netcoreapp3.1\3. CalculaResto.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\bin\Debug\netcoreapp3.1\3. CalculaResto.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\bin\Debug\netcoreapp3.1\3. CalculaResto.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\bin\Debug\netcoreapp3.1\3. CalculaResto.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\bin\Debug\netcoreapp3.1\3. CalculaResto.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\obj\Debug\netcoreapp3.1\3. CalculaResto.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\obj\Debug\netcoreapp3.1\3. CalculaResto.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\3. CalculaResto\obj\Debug\netcoreapp3.1\3. CalculaResto.genruntimeconfig.cache

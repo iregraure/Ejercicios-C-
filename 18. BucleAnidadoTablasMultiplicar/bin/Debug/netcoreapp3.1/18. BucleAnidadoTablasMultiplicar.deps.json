@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "18. BucleAnidadoTablasMultiplicar/1.0.0": {
+        "runtime": {
+          "18. BucleAnidadoTablasMultiplicar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18. BucleAnidadoTablasMultiplicar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

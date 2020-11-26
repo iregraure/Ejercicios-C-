@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\bin\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\bin\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\bin\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\bin\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\bin\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\bin\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\obj\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\obj\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\obj\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\obj\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\obj\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\obj\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\9. EscribirSinSaltoLinea\obj\Debug\netcoreapp3.1\9. EscribirSinSaltoLinea.genruntimeconfig.cache

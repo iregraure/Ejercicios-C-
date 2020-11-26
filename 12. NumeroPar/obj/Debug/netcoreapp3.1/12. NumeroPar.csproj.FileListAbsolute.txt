@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\bin\Debug\netcoreapp3.1\12. NumeroPar.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\bin\Debug\netcoreapp3.1\12. NumeroPar.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\bin\Debug\netcoreapp3.1\12. NumeroPar.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\bin\Debug\netcoreapp3.1\12. NumeroPar.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\bin\Debug\netcoreapp3.1\12. NumeroPar.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\bin\Debug\netcoreapp3.1\12. NumeroPar.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\obj\Debug\netcoreapp3.1\12. NumeroPar.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\obj\Debug\netcoreapp3.1\12. NumeroPar.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\obj\Debug\netcoreapp3.1\12. NumeroPar.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\obj\Debug\netcoreapp3.1\12. NumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\obj\Debug\netcoreapp3.1\12. NumeroPar.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\obj\Debug\netcoreapp3.1\12. NumeroPar.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\12. NumeroPar\obj\Debug\netcoreapp3.1\12. NumeroPar.genruntimeconfig.cache

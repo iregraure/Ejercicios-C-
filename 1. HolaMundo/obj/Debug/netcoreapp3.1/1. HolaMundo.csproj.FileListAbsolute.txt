@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\obj\Debug\netcoreapp3.1\1. HolaMundo.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\obj\Debug\netcoreapp3.1\1. HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\obj\Debug\netcoreapp3.1\1. HolaMundo.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\obj\Debug\netcoreapp3.1\1. HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\bin\Debug\netcoreapp3.1\1. HolaMundo.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\bin\Debug\netcoreapp3.1\1. HolaMundo.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\bin\Debug\netcoreapp3.1\1. HolaMundo.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\bin\Debug\netcoreapp3.1\1. HolaMundo.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\bin\Debug\netcoreapp3.1\1. HolaMundo.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\bin\Debug\netcoreapp3.1\1. HolaMundo.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\obj\Debug\netcoreapp3.1\1. HolaMundo.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\obj\Debug\netcoreapp3.1\1. HolaMundo.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\1. HolaMundo\obj\Debug\netcoreapp3.1\1. HolaMundo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\bin\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\bin\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\bin\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\bin\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\bin\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\bin\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\obj\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\obj\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\obj\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\obj\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\obj\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\obj\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\14. SwitchCalculaCuadrados\obj\Debug\netcoreapp3.1\14. SwitchCalculaCuadrados.genruntimeconfig.cache

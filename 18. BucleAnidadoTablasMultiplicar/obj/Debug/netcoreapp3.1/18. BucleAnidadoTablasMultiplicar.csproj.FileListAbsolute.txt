@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\obj\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\obj\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\obj\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\obj\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\bin\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\bin\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\bin\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\bin\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\bin\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\bin\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\obj\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\obj\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\18. BucleAnidadoTablasMultiplicar\obj\Debug\netcoreapp3.1\18. BucleAnidadoTablasMultiplicar.genruntimeconfig.cache

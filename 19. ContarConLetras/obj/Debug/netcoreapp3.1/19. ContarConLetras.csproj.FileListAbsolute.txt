@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\obj\Debug\netcoreapp3.1\19. ContarConLetras.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\obj\Debug\netcoreapp3.1\19. ContarConLetras.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\obj\Debug\netcoreapp3.1\19. ContarConLetras.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\obj\Debug\netcoreapp3.1\19. ContarConLetras.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\bin\Debug\netcoreapp3.1\19. ContarConLetras.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\bin\Debug\netcoreapp3.1\19. ContarConLetras.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\bin\Debug\netcoreapp3.1\19. ContarConLetras.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\bin\Debug\netcoreapp3.1\19. ContarConLetras.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\bin\Debug\netcoreapp3.1\19. ContarConLetras.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\bin\Debug\netcoreapp3.1\19. ContarConLetras.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\obj\Debug\netcoreapp3.1\19. ContarConLetras.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\obj\Debug\netcoreapp3.1\19. ContarConLetras.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\19. ContarConLetras\obj\Debug\netcoreapp3.1\19. ContarConLetras.genruntimeconfig.cache

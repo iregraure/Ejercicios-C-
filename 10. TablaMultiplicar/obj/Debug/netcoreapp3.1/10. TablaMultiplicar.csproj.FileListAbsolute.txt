@@ -1,0 +1,13 @@
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\bin\Debug\netcoreapp3.1\10. TablaMultiplicar.exe
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\bin\Debug\netcoreapp3.1\10. TablaMultiplicar.deps.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\bin\Debug\netcoreapp3.1\10. TablaMultiplicar.runtimeconfig.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\bin\Debug\netcoreapp3.1\10. TablaMultiplicar.runtimeconfig.dev.json
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\bin\Debug\netcoreapp3.1\10. TablaMultiplicar.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\bin\Debug\netcoreapp3.1\10. TablaMultiplicar.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\obj\Debug\netcoreapp3.1\10. TablaMultiplicar.csprojAssemblyReference.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\obj\Debug\netcoreapp3.1\10. TablaMultiplicar.AssemblyInfoInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\obj\Debug\netcoreapp3.1\10. TablaMultiplicar.AssemblyInfo.cs
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\obj\Debug\netcoreapp3.1\10. TablaMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\obj\Debug\netcoreapp3.1\10. TablaMultiplicar.dll
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\obj\Debug\netcoreapp3.1\10. TablaMultiplicar.pdb
+C:\Users\Irene\Downloads\AAA Ejercicios Lucía C#\Parte 1\AA Ejercicios mios\10. TablaMultiplicar\obj\Debug\netcoreapp3.1\10. TablaMultiplicar.genruntimeconfig.cache
