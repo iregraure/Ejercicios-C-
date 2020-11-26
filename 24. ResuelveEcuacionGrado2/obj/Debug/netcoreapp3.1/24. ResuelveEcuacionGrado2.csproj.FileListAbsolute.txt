@@ -1,0 +1,13 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\obj\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\obj\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\obj\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\obj\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\bin\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\bin\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\bin\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\bin\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\bin\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\bin\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\obj\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\obj\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\24. ResuelveEcuacionGrado2\obj\Debug\netcoreapp3.1\24. ResuelveEcuacionGrado2.genruntimeconfig.cache

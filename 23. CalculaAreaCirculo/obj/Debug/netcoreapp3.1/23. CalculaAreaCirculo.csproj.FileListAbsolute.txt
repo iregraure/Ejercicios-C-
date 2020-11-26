@@ -1,0 +1,13 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\bin\Debug\netcoreapp3.1\23. CalculaAreaCirculo.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\bin\Debug\netcoreapp3.1\23. CalculaAreaCirculo.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\bin\Debug\netcoreapp3.1\23. CalculaAreaCirculo.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\bin\Debug\netcoreapp3.1\23. CalculaAreaCirculo.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\bin\Debug\netcoreapp3.1\23. CalculaAreaCirculo.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\bin\Debug\netcoreapp3.1\23. CalculaAreaCirculo.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\obj\Debug\netcoreapp3.1\23. CalculaAreaCirculo.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\obj\Debug\netcoreapp3.1\23. CalculaAreaCirculo.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\obj\Debug\netcoreapp3.1\23. CalculaAreaCirculo.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\obj\Debug\netcoreapp3.1\23. CalculaAreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\obj\Debug\netcoreapp3.1\23. CalculaAreaCirculo.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\obj\Debug\netcoreapp3.1\23. CalculaAreaCirculo.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\23. CalculaAreaCirculo\obj\Debug\netcoreapp3.1\23. CalculaAreaCirculo.genruntimeconfig.cache

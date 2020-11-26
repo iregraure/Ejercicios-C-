@@ -1,0 +1,13 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\obj\Debug\netcoreapp3.1\26. CambiosDeBase.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\obj\Debug\netcoreapp3.1\26. CambiosDeBase.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\obj\Debug\netcoreapp3.1\26. CambiosDeBase.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\obj\Debug\netcoreapp3.1\26. CambiosDeBase.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\bin\Debug\netcoreapp3.1\26. CambiosDeBase.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\bin\Debug\netcoreapp3.1\26. CambiosDeBase.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\bin\Debug\netcoreapp3.1\26. CambiosDeBase.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\bin\Debug\netcoreapp3.1\26. CambiosDeBase.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\bin\Debug\netcoreapp3.1\26. CambiosDeBase.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\bin\Debug\netcoreapp3.1\26. CambiosDeBase.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\obj\Debug\netcoreapp3.1\26. CambiosDeBase.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\obj\Debug\netcoreapp3.1\26. CambiosDeBase.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\26. CambiosDeBase\obj\Debug\netcoreapp3.1\26. CambiosDeBase.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\bin\Debug\netcoreapp3.1\25. FormatearNumeros.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\bin\Debug\netcoreapp3.1\25. FormatearNumeros.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\bin\Debug\netcoreapp3.1\25. FormatearNumeros.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\bin\Debug\netcoreapp3.1\25. FormatearNumeros.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\bin\Debug\netcoreapp3.1\25. FormatearNumeros.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\bin\Debug\netcoreapp3.1\25. FormatearNumeros.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\obj\Debug\netcoreapp3.1\25. FormatearNumeros.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\obj\Debug\netcoreapp3.1\25. FormatearNumeros.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\obj\Debug\netcoreapp3.1\25. FormatearNumeros.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\obj\Debug\netcoreapp3.1\25. FormatearNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\obj\Debug\netcoreapp3.1\25. FormatearNumeros.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\obj\Debug\netcoreapp3.1\25. FormatearNumeros.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\25. FormatearNumeros\obj\Debug\netcoreapp3.1\25. FormatearNumeros.genruntimeconfig.cache
