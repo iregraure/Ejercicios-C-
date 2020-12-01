@@ -1,0 +1,13 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\obj\Debug\netcoreapp3.1\29. Matrices.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\obj\Debug\netcoreapp3.1\29. Matrices.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\obj\Debug\netcoreapp3.1\29. Matrices.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\obj\Debug\netcoreapp3.1\29. Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\bin\Debug\netcoreapp3.1\29. Matrices.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\bin\Debug\netcoreapp3.1\29. Matrices.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\bin\Debug\netcoreapp3.1\29. Matrices.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\bin\Debug\netcoreapp3.1\29. Matrices.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\bin\Debug\netcoreapp3.1\29. Matrices.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\bin\Debug\netcoreapp3.1\29. Matrices.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\obj\Debug\netcoreapp3.1\29. Matrices.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\obj\Debug\netcoreapp3.1\29. Matrices.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\29. Matrices\obj\Debug\netcoreapp3.1\29. Matrices.genruntimeconfig.cache

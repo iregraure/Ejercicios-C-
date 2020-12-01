@@ -1,0 +1,13 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\bin\Debug\netcoreapp3.1\27. ArrayBasico.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\bin\Debug\netcoreapp3.1\27. ArrayBasico.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\bin\Debug\netcoreapp3.1\27. ArrayBasico.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\bin\Debug\netcoreapp3.1\27. ArrayBasico.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\bin\Debug\netcoreapp3.1\27. ArrayBasico.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\bin\Debug\netcoreapp3.1\27. ArrayBasico.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\obj\Debug\netcoreapp3.1\27. ArrayBasico.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\obj\Debug\netcoreapp3.1\27. ArrayBasico.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\obj\Debug\netcoreapp3.1\27. ArrayBasico.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\obj\Debug\netcoreapp3.1\27. ArrayBasico.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\obj\Debug\netcoreapp3.1\27. ArrayBasico.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\obj\Debug\netcoreapp3.1\27. ArrayBasico.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\27. ArrayBasico\obj\Debug\netcoreapp3.1\27. ArrayBasico.genruntimeconfig.cache

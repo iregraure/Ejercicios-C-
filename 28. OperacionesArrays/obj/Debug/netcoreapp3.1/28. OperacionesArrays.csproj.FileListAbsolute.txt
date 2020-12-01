@@ -1,0 +1,13 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\obj\Debug\netcoreapp3.1\28. OperacionesArrays.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\obj\Debug\netcoreapp3.1\28. OperacionesArrays.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\obj\Debug\netcoreapp3.1\28. OperacionesArrays.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\obj\Debug\netcoreapp3.1\28. OperacionesArrays.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\bin\Debug\netcoreapp3.1\28. OperacionesArrays.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\bin\Debug\netcoreapp3.1\28. OperacionesArrays.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\bin\Debug\netcoreapp3.1\28. OperacionesArrays.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\bin\Debug\netcoreapp3.1\28. OperacionesArrays.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\bin\Debug\netcoreapp3.1\28. OperacionesArrays.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\bin\Debug\netcoreapp3.1\28. OperacionesArrays.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\obj\Debug\netcoreapp3.1\28. OperacionesArrays.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\obj\Debug\netcoreapp3.1\28. OperacionesArrays.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\28. OperacionesArrays\obj\Debug\netcoreapp3.1\28. OperacionesArrays.genruntimeconfig.cache
