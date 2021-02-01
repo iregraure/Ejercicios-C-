@@ -1,0 +1,7 @@
+C:\Users\Irene\source\repos\41.Visibilidad\41.Visibilidad\bin\Debug\41.Visibilidad.exe.config
+C:\Users\Irene\source\repos\41.Visibilidad\41.Visibilidad\bin\Debug\41.Visibilidad.exe
+C:\Users\Irene\source\repos\41.Visibilidad\41.Visibilidad\bin\Debug\41.Visibilidad.pdb
+C:\Users\Irene\source\repos\41.Visibilidad\41.Visibilidad\obj\Debug\41.Visibilidad.csprojAssemblyReference.cache
+C:\Users\Irene\source\repos\41.Visibilidad\41.Visibilidad\obj\Debug\41.Visibilidad.csproj.CoreCompileInputs.cache
+C:\Users\Irene\source\repos\41.Visibilidad\41.Visibilidad\obj\Debug\41.Visibilidad.exe
+C:\Users\Irene\source\repos\41.Visibilidad\41.Visibilidad\obj\Debug\41.Visibilidad.pdb

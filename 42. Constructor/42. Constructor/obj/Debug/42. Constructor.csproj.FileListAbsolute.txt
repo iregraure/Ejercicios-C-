@@ -1,0 +1,7 @@
+C:\Users\Irene\source\repos\42. Constructor\42. Constructor\bin\Debug\_42.Constructor.exe.config
+C:\Users\Irene\source\repos\42. Constructor\42. Constructor\bin\Debug\_42.Constructor.exe
+C:\Users\Irene\source\repos\42. Constructor\42. Constructor\bin\Debug\_42.Constructor.pdb
+C:\Users\Irene\source\repos\42. Constructor\42. Constructor\obj\Debug\42. Constructor.csprojAssemblyReference.cache
+C:\Users\Irene\source\repos\42. Constructor\42. Constructor\obj\Debug\42. Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Irene\source\repos\42. Constructor\42. Constructor\obj\Debug\_42.Constructor.exe
+C:\Users\Irene\source\repos\42. Constructor\42. Constructor\obj\Debug\_42.Constructor.pdb
