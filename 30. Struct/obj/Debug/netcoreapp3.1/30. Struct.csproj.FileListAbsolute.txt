@@ -1,0 +1,13 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\bin\Debug\netcoreapp3.1\30. Struct.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\bin\Debug\netcoreapp3.1\30. Struct.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\bin\Debug\netcoreapp3.1\30. Struct.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\bin\Debug\netcoreapp3.1\30. Struct.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\bin\Debug\netcoreapp3.1\30. Struct.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\bin\Debug\netcoreapp3.1\30. Struct.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\obj\Debug\netcoreapp3.1\30. Struct.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\obj\Debug\netcoreapp3.1\30. Struct.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\obj\Debug\netcoreapp3.1\30. Struct.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\obj\Debug\netcoreapp3.1\30. Struct.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\obj\Debug\netcoreapp3.1\30. Struct.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\obj\Debug\netcoreapp3.1\30. Struct.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\30. Struct\obj\Debug\netcoreapp3.1\30. Struct.genruntimeconfig.cache

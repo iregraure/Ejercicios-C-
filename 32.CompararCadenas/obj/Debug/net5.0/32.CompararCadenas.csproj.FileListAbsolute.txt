@@ -1,0 +1,16 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\bin\Debug\net5.0\32.CompararCadenas.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\bin\Debug\net5.0\32.CompararCadenas.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\bin\Debug\net5.0\32.CompararCadenas.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\bin\Debug\net5.0\32.CompararCadenas.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\bin\Debug\net5.0\32.CompararCadenas.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\bin\Debug\net5.0\ref\32.CompararCadenas.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\bin\Debug\net5.0\32.CompararCadenas.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\obj\Debug\net5.0\32.CompararCadenas.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\obj\Debug\net5.0\32.CompararCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\obj\Debug\net5.0\32.CompararCadenas.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\obj\Debug\net5.0\32.CompararCadenas.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\obj\Debug\net5.0\32.CompararCadenas.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\obj\Debug\net5.0\32.CompararCadenas.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\obj\Debug\net5.0\ref\32.CompararCadenas.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\obj\Debug\net5.0\32.CompararCadenas.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\32.CompararCadenas\obj\Debug\net5.0\32.CompararCadenas.genruntimeconfig.cache

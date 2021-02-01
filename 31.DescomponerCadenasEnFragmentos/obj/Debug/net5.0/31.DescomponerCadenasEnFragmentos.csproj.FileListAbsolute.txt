@@ -1,0 +1,16 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\obj\Debug\net5.0\31.DescomponerCadenasEnFragmentos.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\obj\Debug\net5.0\31.DescomponerCadenasEnFragmentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\obj\Debug\net5.0\31.DescomponerCadenasEnFragmentos.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\obj\Debug\net5.0\31.DescomponerCadenasEnFragmentos.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\obj\Debug\net5.0\31.DescomponerCadenasEnFragmentos.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\bin\Debug\net5.0\31.DescomponerCadenasEnFragmentos.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\bin\Debug\net5.0\31.DescomponerCadenasEnFragmentos.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\bin\Debug\net5.0\31.DescomponerCadenasEnFragmentos.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\bin\Debug\net5.0\31.DescomponerCadenasEnFragmentos.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\bin\Debug\net5.0\31.DescomponerCadenasEnFragmentos.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\bin\Debug\net5.0\ref\31.DescomponerCadenasEnFragmentos.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\bin\Debug\net5.0\31.DescomponerCadenasEnFragmentos.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\obj\Debug\net5.0\31.DescomponerCadenasEnFragmentos.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\obj\Debug\net5.0\ref\31.DescomponerCadenasEnFragmentos.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\obj\Debug\net5.0\31.DescomponerCadenasEnFragmentos.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\31.DescomponerCadenasEnFragmentos\obj\Debug\net5.0\31.DescomponerCadenasEnFragmentos.genruntimeconfig.cache

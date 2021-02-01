@@ -1,0 +1,16 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\bin\Debug\net5.0\35.Ordenacion.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\bin\Debug\net5.0\35.Ordenacion.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\bin\Debug\net5.0\35.Ordenacion.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\bin\Debug\net5.0\35.Ordenacion.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\bin\Debug\net5.0\35.Ordenacion.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\bin\Debug\net5.0\ref\35.Ordenacion.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\bin\Debug\net5.0\35.Ordenacion.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\obj\Debug\net5.0\35.Ordenacion.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\obj\Debug\net5.0\35.Ordenacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\obj\Debug\net5.0\35.Ordenacion.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\obj\Debug\net5.0\35.Ordenacion.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\obj\Debug\net5.0\35.Ordenacion.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\obj\Debug\net5.0\35.Ordenacion.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\obj\Debug\net5.0\ref\35.Ordenacion.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\obj\Debug\net5.0\35.Ordenacion.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\35.Ordenacion\obj\Debug\net5.0\35.Ordenacion.genruntimeconfig.cache

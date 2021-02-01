@@ -1,0 +1,16 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\obj\Debug\net5.0\33.StringBuilder.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\obj\Debug\net5.0\33.StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\obj\Debug\net5.0\33.StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\obj\Debug\net5.0\33.StringBuilder.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\obj\Debug\net5.0\33.StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\bin\Debug\net5.0\33.StringBuilder.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\bin\Debug\net5.0\33.StringBuilder.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\bin\Debug\net5.0\33.StringBuilder.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\bin\Debug\net5.0\33.StringBuilder.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\bin\Debug\net5.0\33.StringBuilder.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\bin\Debug\net5.0\ref\33.StringBuilder.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\bin\Debug\net5.0\33.StringBuilder.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\obj\Debug\net5.0\33.StringBuilder.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\obj\Debug\net5.0\ref\33.StringBuilder.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\obj\Debug\net5.0\33.StringBuilder.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\33.StringBuilder\obj\Debug\net5.0\33.StringBuilder.genruntimeconfig.cache

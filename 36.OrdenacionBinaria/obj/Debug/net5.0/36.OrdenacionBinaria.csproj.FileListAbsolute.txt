@@ -1,0 +1,16 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\obj\Debug\net5.0\36.OrdenacionBinaria.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\obj\Debug\net5.0\36.OrdenacionBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\obj\Debug\net5.0\36.OrdenacionBinaria.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\obj\Debug\net5.0\36.OrdenacionBinaria.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\obj\Debug\net5.0\36.OrdenacionBinaria.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\bin\Debug\net5.0\36.OrdenacionBinaria.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\bin\Debug\net5.0\36.OrdenacionBinaria.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\bin\Debug\net5.0\36.OrdenacionBinaria.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\bin\Debug\net5.0\36.OrdenacionBinaria.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\bin\Debug\net5.0\36.OrdenacionBinaria.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\bin\Debug\net5.0\ref\36.OrdenacionBinaria.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\bin\Debug\net5.0\36.OrdenacionBinaria.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\obj\Debug\net5.0\36.OrdenacionBinaria.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\obj\Debug\net5.0\ref\36.OrdenacionBinaria.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\obj\Debug\net5.0\36.OrdenacionBinaria.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\36.OrdenacionBinaria\obj\Debug\net5.0\36.OrdenacionBinaria.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\bin\Debug\net5.0\34.BucleForeach.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\bin\Debug\net5.0\34.BucleForeach.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\bin\Debug\net5.0\34.BucleForeach.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\bin\Debug\net5.0\34.BucleForeach.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\bin\Debug\net5.0\34.BucleForeach.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\bin\Debug\net5.0\ref\34.BucleForeach.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\bin\Debug\net5.0\34.BucleForeach.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\obj\Debug\net5.0\34.BucleForeach.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\obj\Debug\net5.0\34.BucleForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\obj\Debug\net5.0\34.BucleForeach.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\obj\Debug\net5.0\34.BucleForeach.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\obj\Debug\net5.0\34.BucleForeach.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\obj\Debug\net5.0\34.BucleForeach.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\obj\Debug\net5.0\ref\34.BucleForeach.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\obj\Debug\net5.0\34.BucleForeach.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\34.BucleForeach\obj\Debug\net5.0\34.BucleForeach.genruntimeconfig.cache

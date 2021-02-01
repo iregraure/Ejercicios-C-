@@ -1,0 +1,16 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\obj\Debug\net5.0\37.ParametrosSalida.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\obj\Debug\net5.0\37.ParametrosSalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\obj\Debug\net5.0\37.ParametrosSalida.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\obj\Debug\net5.0\37.ParametrosSalida.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\obj\Debug\net5.0\37.ParametrosSalida.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\bin\Debug\net5.0\37.ParametrosSalida.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\bin\Debug\net5.0\37.ParametrosSalida.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\bin\Debug\net5.0\37.ParametrosSalida.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\bin\Debug\net5.0\37.ParametrosSalida.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\bin\Debug\net5.0\37.ParametrosSalida.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\bin\Debug\net5.0\ref\37.ParametrosSalida.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\bin\Debug\net5.0\37.ParametrosSalida.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\obj\Debug\net5.0\37.ParametrosSalida.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\obj\Debug\net5.0\ref\37.ParametrosSalida.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\obj\Debug\net5.0\37.ParametrosSalida.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\37.ParametrosSalida\obj\Debug\net5.0\37.ParametrosSalida.genruntimeconfig.cache

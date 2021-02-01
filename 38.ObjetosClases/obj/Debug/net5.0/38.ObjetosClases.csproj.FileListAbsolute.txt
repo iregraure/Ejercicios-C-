@@ -1,0 +1,16 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\bin\Debug\net5.0\38.ObjetosClases.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\bin\Debug\net5.0\38.ObjetosClases.deps.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\bin\Debug\net5.0\38.ObjetosClases.runtimeconfig.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\bin\Debug\net5.0\38.ObjetosClases.runtimeconfig.dev.json
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\bin\Debug\net5.0\38.ObjetosClases.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\bin\Debug\net5.0\ref\38.ObjetosClases.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\bin\Debug\net5.0\38.ObjetosClases.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\obj\Debug\net5.0\38.ObjetosClases.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\obj\Debug\net5.0\38.ObjetosClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\obj\Debug\net5.0\38.ObjetosClases.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\obj\Debug\net5.0\38.ObjetosClases.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\obj\Debug\net5.0\38.ObjetosClases.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\obj\Debug\net5.0\38.ObjetosClases.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\obj\Debug\net5.0\ref\38.ObjetosClases.dll
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\obj\Debug\net5.0\38.ObjetosClases.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\38.ObjetosClases\obj\Debug\net5.0\38.ObjetosClases.genruntimeconfig.cache

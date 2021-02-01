@@ -1,0 +1,7 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\39.ProyectoVariosFicherosFunete\39.ProyectoVariosFicherosFunete\bin\Debug\39.ProyectoVariosFicherosFunete.exe.config
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\39.ProyectoVariosFicherosFunete\39.ProyectoVariosFicherosFunete\bin\Debug\39.ProyectoVariosFicherosFunete.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\39.ProyectoVariosFicherosFunete\39.ProyectoVariosFicherosFunete\bin\Debug\39.ProyectoVariosFicherosFunete.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\39.ProyectoVariosFicherosFunete\39.ProyectoVariosFicherosFunete\obj\Debug\39.ProyectoVariosFicherosFunete.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\39.ProyectoVariosFicherosFunete\39.ProyectoVariosFicherosFunete\obj\Debug\39.ProyectoVariosFicherosFunete.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\39.ProyectoVariosFicherosFunete\39.ProyectoVariosFicherosFunete\obj\Debug\39.ProyectoVariosFicherosFunete.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\39.ProyectoVariosFicherosFunete\39.ProyectoVariosFicherosFunete\obj\Debug\39.ProyectoVariosFicherosFunete.pdb

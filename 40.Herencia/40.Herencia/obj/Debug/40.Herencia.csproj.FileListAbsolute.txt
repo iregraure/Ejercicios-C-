@@ -1,0 +1,7 @@
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\40.Herencia\40.Herencia\bin\Debug\40.Herencia.exe.config
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\40.Herencia\40.Herencia\bin\Debug\40.Herencia.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\40.Herencia\40.Herencia\bin\Debug\40.Herencia.pdb
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\40.Herencia\40.Herencia\obj\Debug\40.Herencia.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\40.Herencia\40.Herencia\obj\Debug\40.Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\40.Herencia\40.Herencia\obj\Debug\40.Herencia.exe
+C:\Users\Irene\Desktop\Curso de C#\Ejercicios\40.Herencia\40.Herencia\obj\Debug\40.Herencia.pdb
